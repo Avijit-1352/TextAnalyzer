@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TextAnalyzer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextAnalyzer is word Counter,Character Counter,Remove extra spaces websit using React.js
 
 ## Available Scripts
 
