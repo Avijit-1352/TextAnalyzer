@@ -1,6 +1,6 @@
 # TextAnalyzer
 
-TextAnalyzer website is word Counter,Character Counter,Remove extra spaces and with dark mode features if you choose then active using React.js in function component.
+TextAnalyzer  is word Counter,Character Counter,Remove extra spaces and with dark mode features if you choose then active using React.js in function component.
 
 ## Available Scripts
 
