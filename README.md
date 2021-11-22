@@ -2,6 +2,8 @@
 
 TextAnalyzer  is word Counter,Character Counter,Remove extra spaces and with dark mode features if you choose then active using React.js in function component.
 
+# hosting links : https://textanalyzer-am.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
